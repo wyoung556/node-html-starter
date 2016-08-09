@@ -1,5 +1,8 @@
 # node-starter
-A node starter app that allows serving static content with the http-server npm package
+
+I'm a web developer, not a Node developer. Therefore I use http-server as a simple web server rather than wiring up complicated and convoluted (IMO) routing and file serving features. Frameworks such as Angular use http-server to demo applications to focus on the JS framework rather than focusing on Node development.
+
+This is a node starter app that allows serving static content with the http-server npm package.
 
 In order to run the project, you must have node installed.
 
