@@ -1,3 +1,7 @@
+# Windows batch files
+batch files
+*.bat
+
 # Logs
 logs
 *.log
