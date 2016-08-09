@@ -1,4 +1,4 @@
-# node-starter
+# node-html-starter
 
 I'm a web developer, not a Node developer. Therefore I use http-server as a simple web server rather than wiring up complicated and convoluted (IMO) routing and file serving features. Frameworks such as Angular use http-server to demo applications to focus on the JS framework rather than focusing on Node development.
 
