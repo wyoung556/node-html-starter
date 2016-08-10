@@ -2,6 +2,8 @@
 
 This is a Node starter app that allows serving static content with the http-server npm package.
 
+Please see my next Node application at [node-web-starter](https://github.com/wyoung556/node-web-bootstrap)
+
 In order to run the project, you must have node installed.
 
 From the command line execute 'npm install' to restore the package dependencies.
